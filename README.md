@@ -12,6 +12,9 @@ An Electron application with React and TypeScript
 
 ```bash
 $ npm install
+
+$ npm install better-sqlite3 # Implementação do banco.
+$ npm install -D @types/better-sqlite3 # Permite que o TypeScript conheça as funções, parâmetros e retornos da biblioteca.
 ```
 
 ### Development
